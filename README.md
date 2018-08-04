@@ -1,1 +1,1 @@
-# Plotly Dash Boilerplay for multiple App
+# Plotly Dash boilerplate for multi page App
